@@ -16,7 +16,7 @@ It is available as both a canvas_item and spatial shader.
 (https://commons.wikimedia.org/wiki/File:Mont-Saint-Michel_vu_du_ciel.jpg)
 
 ### Dallol
-![](https://github.com/PeterEve/godot-kuwahara/blob/main/screenshots/dallol_before.png)
+![](https://github.com/PeterEve/godot-kuwahara/blob/main/screenshots/dallol_before.jpg)
 ![](https://github.com/PeterEve/godot-kuwahara/blob/main/screenshots/dallol_after.png)
 (https://commons.wikimedia.org/wiki/File:The_hydrothermal_system_of_Dallol.png)
 
